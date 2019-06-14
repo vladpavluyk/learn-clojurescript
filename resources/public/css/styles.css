@@ -1,0 +1,8 @@
+.user {
+    cursor: pointer;
+}
+
+.selected-user {
+    background: lightslategray;
+}
+
